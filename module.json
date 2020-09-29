@@ -1,0 +1,22 @@
+{
+  "name": "TrustIssues",
+  "title": "TrustIssues by Blitz",
+  "description": "GM notifications if a player has their devtools open",
+  "version": "0.0.1",
+  "author": "Blitzkraig",
+  "scripts": ["./trustissues.js"],
+  "styles": [],
+  "packs": [],
+  "languages": [
+		{
+			"lang": "en",
+			"path": "languages/en.json"
+		}
+  ],
+  "socket": true,
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.7.3",
+  "url": "https://github.com/BlitzKraig/fvtt-TrustIssues",
+  "manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-TrustIssues/master/module.json",
+  "download": "https://github.com/BlitzKraig/fvtt-TrustIssues/releases/download/latest/trustissues-release.zip"
+}
