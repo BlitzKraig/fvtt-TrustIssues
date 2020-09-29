@@ -1,7 +1,7 @@
 {
   "name": "TrustIssues",
   "title": "TrustIssues by Blitz",
-  "description": "GM notifications if a player has their devtools open",
+  "description": "Notifications for the paranoid GM if a player has their devtools open",
   "version": "0.0.1",
   "author": "Blitzkraig",
   "scripts": ["./trustissues.js"],
