@@ -7,6 +7,8 @@
 
 Trust no-one... Notification for the paranoid GM if a player opens devtools.
 
+Always remember: Just because a player has their devtools open doesn't _necessarily_ mean they're cheating... 🕵️‍♂️
+
 ## Troubleshooting
 
 Please create a github issue, or contact me on Discord at Blitz#6797
