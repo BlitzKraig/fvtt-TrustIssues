@@ -19,9 +19,7 @@ Please create a github issue, or contact me on Discord at Blitz#6797
 
 ## Known Issues & Limitations
 
-TrustIssues can only detect the console is open when the player mouses back over the canvas.
-
-There are multiple ways a player could circumvent this detection. Cheaters always cheat.
+There are multiple ways a player could circumvent this detection, and potentially some false-flagging if your player hits some weird JS issue, though this is unlikely.
 
 ## Feedback
 
