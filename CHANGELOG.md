@@ -1,3 +1,7 @@
+# 1.1.0 - 2020/10/01
+
+* Added Spanish translations
+
 # 1.0.0 - 2020/09/30
 
 * Minified and mangled code to make it more difficult to circumvent detection
