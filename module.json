@@ -9,9 +9,15 @@
   "packs": [],
   "languages": [
 		{
-			"lang": "en",
+      "lang": "en",
+      "name": "English",
 			"path": "languages/en.json"
-		}
+    },
+    {
+      "lang": "es",
+      "name": "Spanish",
+			"path": "languages/es.json"
+    }
   ],
   "socket": true,
   "minimumCoreVersion": "0.6.2",
